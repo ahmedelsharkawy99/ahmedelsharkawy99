@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalsharkawy99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalsharkawy99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedalsharkawy99)](https://github.com/ryo-ma/github-profile-trophy)" alt="ahmedalsharkawy99" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mo7ie6" target="blank"><img src="https://img.shields.io/twitter/follow/mo7ie6?logo=twitter&style=for-the-badge" alt="mo7ie6" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedelsharkawy99/](https://github.com/ahmedelsharkawy99/)
